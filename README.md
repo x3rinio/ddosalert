@@ -8,7 +8,10 @@ It sends a message to a Discord channel where you specify the instant data of th
 # Installation
 
 Install Python <br>
-<code>pip3 or pip install psutil discord</code>
+<code>pip3 or pip install psutil discord</code><br><br>
+For run <code>python3 main.py</code>
+
+
 
 # Requirements
 • Python 3.8.10
